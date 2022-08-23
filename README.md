@@ -24,7 +24,7 @@ What I wanten to achieve:
 ### Links
 
 - [Solution URL](https://github.com/KamilaHareza/product-preview-card-component-main)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://kamilahareza.github.io/product-preview-card-component-main/)
 
 ## My process
 
